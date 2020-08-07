@@ -28,4 +28,4 @@ class InstaBot:
 			print("hello2 e")
 		
 		
-InstaBot("itsrobel.schwarz@gmail.com", "ras17073")
+InstaBot(*YOUR EMAIL/USERNAME*, *YOUR_PASSWORD*)
