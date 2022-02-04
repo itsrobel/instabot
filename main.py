@@ -2,6 +2,8 @@ from selenium import webdriver
 from time import sleep
 
 
+print("hello")
+
 class InstaBot:
 	def __init__(self, username, password):
 		self.driver = webdriver.Chrome()
